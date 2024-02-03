@@ -1,3 +1,5 @@
+结队编程答案：
+
 n = int(input())
 level = list(map(int, input().split()))
 
